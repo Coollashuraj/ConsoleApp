@@ -1,0 +1,14 @@
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
