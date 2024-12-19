@@ -12,3 +12,4 @@
 /Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
 /Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
 /Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
+/Users/Lash/Documents/Csharp/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.sourcelink.json
